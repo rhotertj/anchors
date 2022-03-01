@@ -34,7 +34,7 @@ print(anchor.get_explanation())
 
 ```
 
-For a more detailed example, see [src/main.py](https://github.com/rhotertj/anchors/blob/main/src/main.py).
+For a more detailed example, see [src/main.py](https://github.com/rhotertj/anchors/blob/master/src/main.py).
 
 ## Analysis
 
@@ -45,7 +45,7 @@ To reproduce the raw data, run:
 ```bash
 ginger-anchors> python src/analysis.py
 ```
-A preview can be found in our writeup: [analysis.md](https://github.com/rhotertj/anchors/blob/main/analysis.md)
+A preview can be found in our writeup: [analysis.md](https://github.com/rhotertj/anchors/blob/master/analysis.md)
 
 ## Authors
 [Jim Rhotert](https://github.com/Dschimm) & [Julian Bilsky](https://github.com/julianbil)
